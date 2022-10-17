@@ -6,10 +6,3 @@ hello_world.hello:
   requirements:
     _permission: 'access content'
 
-hello_world.date:
-  path: '/date'
-  defaults:
-    _controller: hello_world.date
-    _title: 'Date'
-  requirements:
-    _permission: 'access content'
