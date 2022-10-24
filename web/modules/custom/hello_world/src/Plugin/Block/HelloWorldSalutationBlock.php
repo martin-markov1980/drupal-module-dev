@@ -24,7 +24,7 @@ class HelloWorldSalutationBlock extends BlockBase implements ContainerFactoryPlu
    * @var \Drupal\hello_world\HelloWorldSalutation
    */
   protected $salutation;
-  
+
   /**
    * Constructs a HelloWorldSalutationBlock.
    *
